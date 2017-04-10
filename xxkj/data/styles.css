@@ -23,41 +23,35 @@
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
-  font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
-  font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
-  font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
-  font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
-  font-style:normal;
   text-align:left;
 }
 ._六级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
-  font-style:normal;
   font-size:10px;
   text-align:left;
 }
@@ -97,49 +91,49 @@
   text-align:left;
 }
 .headline {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:24px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .title {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .subheader {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:16px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .body_2___menu {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .body_1 {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .caption {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:12px;
   color:rgba(0, 0, 0, 0.537254901960784);
 }
 .primary_text_dark {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -147,63 +141,63 @@
   text-align:left;
 }
 .secondary_text_dark {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.537254901960784);
 }
 .disabled_text_dark {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 .primary_text_light {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
 .float_button {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:24px;
   color:#FFFFFF;
 }
 .flat_button {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#2196F3;
 }
 .flat_button_pressed {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#2196F3;
 }
 .flat_button_disabled {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 .raised_button {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
 .raised_button_pressed {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
@@ -212,7 +206,7 @@
 .status_bar_light {
 }
 .title_bar_light {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -222,7 +216,7 @@
 .content_bg_light {
 }
 .dialog_light {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -230,7 +224,7 @@
   text-align:left;
 }
 .hint_text {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -252,23 +246,21 @@
 .contact_avatar {
 }
 .divider {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 ._一级标题1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
-  font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
-  font-style:normal;
   font-size:24px;
   text-align:left;
 }
