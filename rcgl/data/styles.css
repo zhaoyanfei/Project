@@ -12,6 +12,25 @@
 .image {
   color:#000000;
 }
+.placeholder {
+}
+.vertical_line {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.table {
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
 .box_2 {
 }
 .ellipse {
@@ -57,6 +76,8 @@
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 ._文本段落 {
   text-align:left;
 }
@@ -68,7 +89,12 @@
 }
 .table_cell {
 }
+._文本段落1 {
+  text-align:left;
+}
 ._流程形状 {
+}
+._形状 {
 }
 ._连接线 {
   font-family:'Arial Normal', 'Arial';
@@ -79,7 +105,7 @@
   text-align:center;
   line-height:normal;
 }
-._文本段落1 {
+._文本段落2 {
   font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
@@ -94,7 +120,7 @@
   font-size:13px;
   color:#000000;
 }
-._形状 {
+._形状1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
@@ -138,15 +164,17 @@
 }
 .shape {
 }
+.connector {
+}
 .paragraph {
   text-align:left;
 }
-.horizontal_line {
+.horizontal_line1 {
 }
 ._图片2 {
   color:#000000;
 }
-._形状1 {
+._形状2 {
 }
 ._文本框 {
   color:#000000;
