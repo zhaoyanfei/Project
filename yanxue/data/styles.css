@@ -84,6 +84,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .ellipse {
 }
 .image1 {
@@ -97,9 +99,18 @@
 .radio_button {
   text-align:left;
 }
+.flow_shape {
+}
 .table {
 }
 .table_cell {
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .icon {
 }
