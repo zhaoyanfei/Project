@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,[j],k,_(l,m,n,o,p,q,r,_(),s,_(t,u,v,w,x,_(y,z,A,B),C,null,D,w,E,w,F,G,H,null,I,J,K,L,M,N,O,J),P,_(),Q,_(),R,_(S,[_(T,U,V,W,X,Y,n,Z,ba,Z,bb,bc,s,_(bd,_(be,bf,bg,bh)),P,_(),bi,_(),bj,[],bk,g)])),bl,_(),bm,_(bn,_(bo,bp)));}; 
+var b="url",c="index.html",d="generationDate",e=new Date(1554718706175.41),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="variables",j="OnLoadVariable",k="page",l="packageId",m="4274954d41d042f3958d72e3e1e58576",n="type",o="Axure:Page",p="name",q="index",r="notes",s="style",t="baseStyle",u="627587b6038d43cca051c114ac41ad32",v="pageAlignment",w="near",x="fill",y="fillType",z="solid",A="color",B=0xFFF2F2F2,C="image",D="imageHorizontalAlignment",E="imageVerticalAlignment",F="imageRepeat",G="auto",H="favicon",I="sketchFactor",J="0",K="colorStyle",L="appliedColor",M="fontName",N="Applied Font",O="borderWidth",P="adaptiveStyles",Q="interactionMap",R="diagram",S="objects",T="id",U="0bff83df797445ce8801c911fb18b7a3",V="label",W="",X="friendlyType",Y="组合",Z="layer",ba="styleType",bb="visible",bc=true,bd="location",be="x",bf=61,bg="y",bh=132,bi="imageOverrides",bj="objs",bk="propagate",bl="masters",bm="objectPaths",bn="0bff83df797445ce8801c911fb18b7a3",bo="scriptId",bp="u0";
+return _creator();
+})());
